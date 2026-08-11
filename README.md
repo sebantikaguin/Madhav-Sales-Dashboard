@@ -1,4 +1,4 @@
-#Madhav Sales Dashboard – Power BI
+#Madhav-Sales-Dashboard
 
 An interactive Power BI Sales Dashboard designed to analyze sales performance, profit, quantity, and customer trends. The dashboard provides clear visual insights into business performance through interactive charts, filters, and KPIs.
 
